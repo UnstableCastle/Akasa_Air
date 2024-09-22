@@ -1,0 +1,11 @@
+# To install the required Libraries : 
+
+pip install pandas seaborn matplotlib
+
+# To ensure you have the latest versions the required Libraries : 
+
+pip install --upgrade pandas seaborn matplotlib
+
+# To install all install the packages using pip:
+
+pip install -r requirements.txt
